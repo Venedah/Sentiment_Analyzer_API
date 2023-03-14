@@ -2,7 +2,7 @@
 
 > Sentimental Analysis API build with VADERSentiment, FastAPI and Docker 
 
-![Sentiment_Analyzer_API]()
+![Sentiment_Analyzer_API](https://github.com/Venedah/Sentiment_Analyzer_API/blob/main/FAST.png)
 
 ## To run the API 
 
